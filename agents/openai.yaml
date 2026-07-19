@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazzzing-prompts"
+  short_description: "通过自适应多轮对话，创建和优化可直接使用的通用 AI Prompt"
+  default_prompt: "使用 $amazzzing-prompts 通过针对性提问，把我的初步想法整理成一份完整 Prompt。"
